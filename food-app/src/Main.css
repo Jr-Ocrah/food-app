@@ -1,0 +1,166 @@
+main{
+    background-color:  #EEEAEA;
+    margin-top: 4px;
+}
+#con1{
+    display: flex;
+    flex-direction: row;
+    min-width: 480px;
+    padding-bottom: 10px;
+    flex: 1;
+    align-items: center;
+    padding-top: 10px;
+}
+
+#search {
+    width: 326px;
+    height: 45px;
+    margin-left: 10px;
+    border-radius: 5px;
+    margin-top: 10px;
+    font-style: normal;
+font-weight: 400;
+font-size: 15px;
+line-height: 18px;
+
+color: #817979;
+    
+}
+
+#sicon {
+    position: relative;
+    width: 22px;
+    height: 22px;
+    right: 35px;
+    top: 7px;
+}
+
+#star {
+    width: 25px;
+    height: 22px;
+    margin-top: -7px;
+}
+
+#rate {
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+color: rgba(0, 0, 0, 0.35);
+margin-top: -10px;
+margin-left: -5px;
+}
+
+.smallest {
+    display: flex;
+    
+
+}
+
+.foods {
+  width: 102px;
+  height: 85px;
+  margin-left: 10px;
+  margin-top: 10px;
+}
+
+.biggest {
+    display: flex;
+    flex-direction: row;
+    padding-bottom: 10px;
+    width: 326px;
+height: 100px;
+    background-color: #FFFFFF;
+box-shadow: 0px 2px 2px rgba(0, 0, 0, 0.25);
+border-radius: 5px;
+margin-left: 10px;
+margin-top: 10px;
+
+
+    
+}
+
+.bigger {
+    display: flex;
+    flex-direction: column;
+    margin-left: 10px;
+    margin-top: -2.5px;
+ 
+}
+
+.big {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.foodname {
+    font-style: normal;
+font-weight: 600;
+font-size: 14px;
+line-height: 17px;
+margin-top: 8px;
+}
+
+.leaf{
+    width: 16px;
+height: 15px;
+position: relative;
+top: -20px;
+}
+
+.Eatery {
+    font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+position: relative;
+top: -20px;
+padding-left: 5px;
+}
+
+.closed{
+    font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+margin-top:-25px;
+
+color: #FF0000;
+}
+
+.opens{
+    font-style: normal;
+font-weight: 400;
+font-size: 11px;
+line-height: 13px;
+margin-top: -7px;
+}
+
+.cedis{
+    font-style: normal;
+font-weight: 500;
+font-size: 11px;
+line-height: 13px;
+position: relative;
+top: -20px;
+}
+
+.money {
+    font-style: normal;
+    font-weight: 500;
+    font-size: 13px;
+    line-height: 13px;
+    color:#F68B0C;
+    position: relative;
+top: -20px;
+padding-left: 5px;
+
+}
+
+.small{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    padding-left: 7px;
+}
